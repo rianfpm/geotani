@@ -1,0 +1,16 @@
+/* -- Collapse */
+
+[data-toggle="collapse"] {
+  .gtn-visible-on-collapsed {
+    display: none;
+  }
+
+  &.collapsed {
+    .gtn-visible-on-collapsed {
+      display: inline-block;
+    }
+    .gtn-visible-on-uncollapsed {
+      display: none;
+    }
+  }
+}

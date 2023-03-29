@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "cabai",
+        "marker_image": "https:\/\/images.unsplash.com\/photo-1656690446569-57b818d4e10c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Utara",
+        "latitude": "-6.6007257354234765",
+        "longitude": "106.79620201543607",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 2,
+        "title": "Tomat",
+        "marker_image": "https:\/\/img.freepik.com\/free-photo\/tomatoes_1232-1910.jpg?w=1060&t=st=1664467140~exp=1664467740~hmac=3b06ce48a79ad4be168d93f5e83b42500bad6a8fa3653a5c7bcd2449776633e6",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Selatan",
+        "latitude": "-6.590716996650158",
+        "longitude": "106.79217184590486",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 3,
+        "title": "Bawang Merah",
+        "marker_image": "https:\/\/img.freepik.com\/free-photo\/red-onion-whole-isolated-white_146671-19175.jpg?w=1060&t=st=1664467203~exp=1664467803~hmac=cb8eb6fc194615d6bde1747d38376840a47c9098ac9e557f071cc09444ebe78e",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Selatan",
+        "latitude": "-6.592556455693351",
+        "longitude": "106.7957663214327",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 4,
+        "title": "Wortel",
+        "marker_image": "https:\/\/img.freepik.com\/premium-photo\/fresh-carrot-isolated-white_272787-151.jpg?w=360",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Barat",
+        "latitude": "-6.598913357177918",
+        "longitude": "106.78923091138212",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 5,
+        "title": "Terong",
+        "marker_image": "https:\/\/id-test-11.slatic.net\/p\/295cc080ddd18ed866bfd743d348b32f.jpg",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Barat",
+        "latitude": "-6.5993049237671135",
+        "longitude": "106.805343138334",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 6,
+        "title": "Sawi",
+        "marker_image": "https:\/\/images.tokopedia.net\/img\/cache\/700\/product-1\/2020\/4\/18\/batch-upload\/batch-upload_86a27e9c-8c62-490c-9bd0-147f225f7bb5",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Barat",
+        "latitude": "-6.57557262027612",
+        "longitude": "106.8196365218905",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 7,
+        "title": "Durian",
+        "marker_image": "https:\/\/img.celebrities.id\/okz\/900\/u00NR6\/master_S0S1A4v7h5_1047_durian.jpg",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Timur",
+        "latitude": "-6.5730121027840775",
+        "longitude": "106.78412443689568",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 8,
+        "title": "Kentang",
+        "marker_image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhITEhIWFRUXFxUWFhYVFxYXFhcXGBUWGBgVGBYYHSggGBolGxUVITEhJSkrLi4uGB8zODMtNygtLisBCgoKDg0OGxAQGi0lICUwLS0tNS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIAOEA4QMBIgACEQEDEQH\/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBAwQCBwj\/xAA7EAACAQIEAwQIBAYCAwEAAAAAAQIDEQQFITESQVEGYXGREyIygaGxwdEjUuHwFEJicpLxFjMVstIH\/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAIDBAEFBv\/EACQRAAICAQQCAwADAAAAAAAAAAABAhEDBBIhMSJBE1FhFDKR\/9oADAMBAAIRAxEAPwD7iAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDJk6cMGQDh0AGQDBkAAAAAAHBmWbU6K9Z3k9orWT+y8SMpKKts6k26R3gqdXO68\/ZtTXK3rS839jRLEV37VWa99vkZJa7Guk2XrTT9lzBToZjXhqqvF1UrS\/X4kpl\/aOMmo1FwN7STvB\/wDz7\/Mnj1eObrojPBOJOgwmZNRSAAAAAADBkAGAZMAAAAGAZAABkAGDIAAAAAAAAANWJrxhFyk7JK7+wboEbn+b+hilHWpL2VyS\/Myp04uUnKV3J7t7+Iq4h1ZyqT3b26Lkjenbex4WpzvLL8R6WLGoL9O7DpLc1Yqabetu76kdjMw4SGebP0nA9+Rmllrii6MG+Tox1epCatrHW\/X9TppYuMoq6sbZWlHU018NGUeF8kdj3aJWq5LV2TzLiTpSeqV4X34ecfd+9ixnzzIqrhXpW\/Ml7pafU+ho9vSZHKHPo8zUQUZ8AAGooAAAAAAAAABgyADAMgAAAAAAAAAAAAAFI7TZxx1fRxfqQetv5ntfwTfwZas5xPo6M5c7WXi9F8z5fiZ3d4+fvuefrsrilBGvS4025MlXVSsceJxu5x1cYcFerbRactDx3M9BQOqrjV4oysZFauKfwaImV+p5VXXUhuLdhO08fffTuPax19L7FfniX18DQ8Wldtlkb9EHAu3Z+q54qjFa3ld+EfW+h9DxmPp0lepNR6X3fglqz412d7Rqjx1I2lWl+HTW6hHRzqNddkl3S5byNCtOcuKbcpPeUmejhz\/DCvbMeXDvn+Iv1XtVT\/khOXfokaV2tV7ehf8AkvsQOFp30+n1OxU0to\/LU7\/LyMh8EEWCh2ipP2lKPirr4Elh8VCavCSl4P8Adio+jNSpuLum0+TWlveicda1\/ZEHp0+i8gq+Ez6cNKi411XtL6MsOExcKkeKDuviu5rkbceaGTozzxyh2bwAWkAAAAAAAAacViY04uUnZL92Xecbrlg2VJpJttJLdvYhcb2hjH2Ffvbsvct2QGbZtOs7bRvpFfN9WctOlffU8zPrndY\/9NuPTLuZ34jOq0\/53FdIafHf4nmlmuIjtUb7pWl8zXRw1mdCwxjefLd7mX\/HDqjopdpqq9uEH4Np\/UlMF2ioz0bcH\/Vt\/lt5ldlQ7jmrU10LYa3LF88kJaeD6Jr\/APQMZwYeKv7UvNJN\/VHzSrj0TWdQlUpxhxtcN3C7uk3uvDRHz7GYiUJOMrqS0aI5snzytF+DFsjTJypiedzVPGkC8cTPZjKnXl6Sf\/UuX52voUPD7Zo3JE92fyeeJkrvhi+fNrqu4+g4Hs\/h6cbKlFvm5JNvxbNfZ\/DJR4vcvqTCIKKMebLJuiBzHsphqqf4ai+sPVfwPnef9ia9OajF8dOT9p6KCs251P6Uk3p02PsTRqr0lJNNJp8iyD2uyKyyrs\/P\/ZeHE+Lq7320+nLQ+iYGNraeLI3PezawtRypL8Ob0XKL\/L3LoSOAlaK5tk5z3Ssv7VktSqaafG9u46aWIa9rprbr7zTQnpqeNW21a\/fcWQJOE01p\/oxKjdas46L2UbXvr9TrlN3S8wRo1VoJbteLPNGpOnLig7P4PxXNG2vS4la\/y9x5ny1\/aEW1yg1fDLFlebxq+q\/Vmv5evevsSZQMQ7esk+JWtbe\/iWPIs7VW0Jv1+T\/N9mepp9Tv8ZdmPLh28ronAAbDOAAACn9qMc5VOBbQ+Muf28y3VJWTfTU+e1Kt23Ldt38WYtbOobV7NGmjcrNNKHPwOrDdDQpW5aHQpWdzyWmbzsglHfmza1dXvaxxrE9Tz\/HI7wiPJ0YnEuK2TXPqc9ZJo5cRjFutufXyOanjYz0TuRfJNI84qBUO0mX+kjxRXrxWnevysuGK1jf9SHxtrP8AepCPhKyxOz53kmAeIrRp3tHeT6RW\/wBvefWsBhlBKMYqKSsktkloVHsrglGtiJLZyVu5NXfxfwL7QirWfO937zRmnbpdEH+ljy6KVONjqOPK36i9\/wAzsKUZZdgwzzJ2PR04cGb4NVacovmvj1KHCTg3CT1Tt4n0motCgdrMNwVo1PzaN9O8iy7E\/R6jiWn15WO2lor3tKWnXyIChir872O\/D43S51TLXEmYVOBJJddfudVCTsru7+BXnjW5Jclv9Dpw+K18NO4luRFxJ3hV780jTxatI5o4rR23+ZmFbXXntptprqdUkRo38N76GmVDh1jo7395sVbdXvz8F7uWh5qTVrHd1dCix5Jm3H6k\/bWz\/N+pMlBUrNOLs01Z95dsBiPSU4z6rXx2fxPV0md5FT7Rhz49rtHQADYUHPmD\/Cqf2S\/9WfPuG7R9ExEOKMo9U15qx87krSs9GnZ+Jg1y6Zq0z7OmMkld8uhpxVfvMKa1Rx4mXJaHnS6Na7PFfFPqcc8YzxWfkcVaMt15Mod2XJErQq8Ts+ehJ0cupx2etu\/wK1hZu\/h8GSCxT01JJr2jjT9HXXnw3RAZjW0Z14rEXuV7MaztLXkRXkyUVR1dkq93UX9fyS0+JeKKTWvW\/wBT5z2InrO+3E2vL9C+UquxdkVSaIy5LPklRWcVydiURXMlrpNrv+ZYkVozZFya6+xp\/iUlryN1WViFzCpql7yvJPbyShHdwd8a86nsK0fzPf3I3Ty+nJevFS\/uV\/me8vjanE6LEkr7ISlTpEHjOy2Hne0OB9YafDYrmZdm6tFNw\/Egv8vLmXmviIxV27HPhsX6W\/Bay3b1DUXwThOa59HyerjnFrl61n1JHD463vPoNbs7h5y4504yk920jlxXZLDy9mPA\/wCltfDYi8bLvngyrQxSfP4nXTxPfc15n2SrQ1pS40uWz+xAvGSi+GcXCXNSWxHyRLxl0yxLEpto9U6z56dO5\/Uho4zbVav92OylW1735af7Jx5ItUS1KV\/d8y5dnV+CvGVvMpuEpTnpCN5cvH7Iu+T4Z0qUKbfE4re1r872uz1tDja8jFqZKqO4yebg9Ixmucindo8Jw1ONLSWr\/u5\/ctlWREZnBTi4v\/T6lWbHvjRZiltlZTne+oxVrXN86fDdS5GjFQutPeeK4tWj0VJMiaumhzSep2VPkcdQpaotizfTqNoxsa6dzYpLd8u5nErDZz4iGl0V3NG0ne3d5L6ljryTu1z5dPIpWc49OfDHWz+JoxY7lwRc6RN5NJQ9Euet\/G9382XXCS6nzHC4lvh11TTRfMrxPFBO+v16Fmph5WiGN3EsmFnZ73f0LJgcZGfq39ZK9udupTozfDda\/O3M78sxiUlLe2l\/mZeUxKNosmIloV\/MJvjT6JkxUrqS0IbFaTV+ehlzPySO4iw5XO9NHTOVkR2V1uR2V9i+\/EpkvIhMZLjm15ExlmH4IJaX52KvRxM\/4idO2kbNPxvp8i2YSqpR0e2nlocgvZZl6o33Fgj0WIzHhxIvOMkpV42nHXlJbp+JLXMHaJRk10fLM1ySphprVypvaX0bNuCTemjfLT96n0XG4aM4uMldMrcMt9HPhS05PuLMEFKe0ull8bJPIqPAr2s2rJdEWOjMg8HTZMUEe7jioqkefN27OriB4sZJkTRVI3FIlakTir0zjCK5jqVyKqosmKw5C4zCGTNgU+fZox5KISVLXe\/f+hrdBnRWpzWzOCviKy2S8n9zFLSyNCzI3+h6mqceFPXTfVkXXxOJ5cPja7+ZH18ur1f+ycpLpsvJaHFpmdeQ8Z7nqadOjrJ6OS2Xh1ZXKGAb5FwwnZl9CZw3Z3uNkMdKkUyyFEWBklsS+R5twPgqfHn095bp5BpsReN7OX5HZ4tyEclElgayd2p6N7dH+p30vV1fPoU1ZbWpP1JPweqOyOa1VpKmn4SaMU8MkXqaZasPiuGTfG31XLy5GcXj4uzlys\/JlTq5zV5U0vGV\/kiOxFWvU9qTS6R0X3MU8G7stjR9Ow+Jfqys9db6W5WJ3DYhTj3rRnzzsbjrR9BUe2tNvzcfqi44KsoyXxIvhkJKzzjqXBNy67+K2PeAxlmSOLoqcetytYpSpyd79xnlKWN\/hKNTVFwpzuro9oq+XZxa19u8n8Ji41IqcHdNJ8voa4TUlaM84OLN1VGItnu5ho7XNkbPMjRVgnrbVG6R4XM6m1JNHTpw1FNJrZ6nZCmcuUzvB90ml4aP6s70fQYp7oKX2Y5KnR54TBsBZZE1SiaZ0jqsYaAIyrhjirYG5PuB4dFHKOplVq5Xfkc0slXQuLw6MfwyObUd3FOWRLobqeRx6Fr\/AIZHpUENqG4rlPKF0OiOWroTvokPRihZByy9dDmrZYuhZHSPEqCFCyn18nT5EfVyJdC9ywppng+4hKCZJTKBPIl0NMsm7i\/TwPcc9TAdxnngRasrKKsss7rRrYmcJVb0l7VvMla2A7jiq4Sxiy6YujlN2HzBwdnsdNXgrwdr7taprVePzIiVHq38zy6soXcWYpY\/UkWcPlHBmNKdJ6K6vv0XU6MFmDjZpkfmWb1+JU1STum3JvRb6ctdjjp1JxVp2vzS0t3J8ypYnEuvcuS94LO4y0krd5KwrJ7M+bUK+q3X9xKYfMmna7v4limyqWJei6s11ZpIrbzWa5nVl6nUfFK9uX3L8ONzlSKpLarZZcqVo+N35kijjwVKyOxHvQjtikjDJ27MgAkcAAAAAAAAAAAAMWMgAAAAGLGOE9AA8ejPMqKNoAOKrhDirYAmjDRFwTJKTKvWy59DjqZW3yLk6aMehXQplp4vsmsrRS\/\/AArfU8\/8dW9te+7+ZdvQoz6NHFpcf0d+aRR\/+Nmyn2ZV02i6+jQ4UP4mL6HzyK3hezsE7uN336k1h8EonYC6OOMekVym32YUTIBMiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf\/9k=",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Timur",
+        "latitude": "-6.550235553967577",
+        "longitude": "106.78700925701206",
+        "komoditas_id": "1"
+    },
+    {
+        "id": 9,
+        "title": "Bayam",
+        "marker_image": "https:\\\/\\\/akcdn.detik.net.id\\\/visual\\\/2018\\\/07\\\/11\\\/cc01493c-6a04-4bea-b33d-3be0086c9f09_169.jpeg?w=650",
+        "url": "detail-page\/detail-rekomendasi.html",
+        "address": "Bogor Tengah",
+        "latitude": "-6.610870148677091",
+        "longitude": "106.84455382670217",
+        "komoditas_id": "1"
+    }
+]

@@ -1,0 +1,23 @@
+/*-------------------------------------------
+  -- Page
+-------------------------------------------*/
+
+body {
+  &.gtn-full-screen-page {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.gtn-page-wrapper {
+  overflow-x: hidden;
+}
+
+#gtn-main {
+  position: relative;
+
+  section:not(.gtn-block) {
+    margin-bottom: 32px;
+  }
+}
